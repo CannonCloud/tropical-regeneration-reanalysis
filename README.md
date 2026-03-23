@@ -62,7 +62,7 @@ Two separate Google Earth Engine pipelines build the training datasets. See thei
 - **Pantropical correlation analysis:** [`SEQUENTIAL_WORKFLOW_PNV_SAMPLING.md`](SEQUENTIAL_WORKFLOW_PNV_SAMPLING.md)
 - **Brazil reanalysis:** [`brazil_pipeline_workflow.md`](brazil_pipeline_workflow.md)
 
-Both require a GEE account with access to the `tropical-natural-regeneration` project.
+Both require a GEE account.
 
 ### 2. R analysis
 
