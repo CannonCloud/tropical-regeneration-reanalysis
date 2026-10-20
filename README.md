@@ -1,10 +1,10 @@
-# matters-arising-williams-2024
+# reanalysis-williams-2024
 
-Reanalysis code and manuscript for a Matters Arising responding to Williams et al. (2024), "Global potential for natural regeneration in deforested tropical regions," *Nature* 636, 131–137. doi: [10.1038/s41586-024-08106-4](https://doi.org/10.1038/s41586-024-08106-4)
+Reanalysis code and manuscript for a reanalysis responding to Williams et al. (2024), "Global potential for natural regeneration in deforested tropical regions," *Nature* 636, 131–137. doi: [10.1038/s41586-024-08106-4](https://doi.org/10.1038/s41586-024-08106-4)
 
 Reanalyzing data from Brazil (20.3% of the global estimate), this work shows that the published ~215 Mha estimate is driven by three independent methodological sensitivities: training prevalence assumptions, spatial sampling design, and predictor encoding. Correcting the prevalence imbalance alone shrinks predicted area from 25.8 Mha to 4.8 Mha. Priority rankings are also unstable across sampling designs, and the biophysical-only model cannot distinguish ecological limitation from ongoing human pressure.
 
-A pre-submission version of the Matters Arising was evaluated by [The Unjournal](https://unjournal.pubpub.org/pub/evalsumnaturalregeneration/).
+A pre-submission version of the reanalysis was published and awarded a prize by [The Unjournal](https://unjournal.pubpub.org/pub/evalsumnaturalregeneration/).
 
 **Author:** Cannon Cloud, WZB Berlin Social Science Center / Goethe University Frankfurt
 
@@ -80,7 +80,7 @@ This repository does not include large raster files. The `figures/` directory co
 
 ## Citation
 
-> Cloud, C. (2025). Training prevalence and spatial sampling design drive aggregate estimates of tropical forest regeneration potential. *Matters Arising*, responding to Williams et al. (2024) *Nature* 636, 131–137.
+> Cloud, C. (2025). Training prevalence and spatial sampling design drive aggregate estimates of tropical forest regeneration potential. Responding to Williams et al. (2024) *Nature* 636, 131–137.
 
 ---
 
