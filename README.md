@@ -13,12 +13,8 @@ A pre-submission version of the reanalysis was published and awarded a prize by 
 ## Repository Structure
 
 ```
-matters-arising-williams-2024/
+reanalysis -williams-2024/
 │
-├── manuscript/
-│   ├── matters_arising.tex          # Main manuscript (LaTeX)
-│   ├── matters_arising_main.bib     # Main text references
-│   └── matters_arising_si.bib       # Supplementary references
 │
 ├── python/
 │   ├── pantropical/                 # Pantropical PNV sampling pipeline (GEE)
